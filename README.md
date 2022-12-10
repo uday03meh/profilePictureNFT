@@ -14,6 +14,7 @@
 - Filebase, IPFS
 - Opensea
 - OpenZeppelin Wizard
+- Alchemy
 
 <p align="center" >
 <img src = "https://user-images.githubusercontent.com/59679281/206873495-e6e9a7b7-1118-48ae-9ab8-7622c6802dc5.png" height="400px"> 
@@ -21,9 +22,10 @@
 
 ## What I learnt:
 
-- How to write and modify the smart contract using OpenZeppelin and Remix
-- Get free Goerli ETH using https://goerlifaucet.com/
-- Deploy it on the Ethereum Goerli testnet blockchain to save on gas fees
+- How to write and modify the smart contract using OpenZeppelin and Remix.
+- Get free Goerli ETH using https://goerlifaucet.com/.
+- Deploy it on the Ethereum Goerli testnet blockchain to save on gas fees.
 - Host the NFT tokens metadata on IPFS using Filebase.
 - Worked on metadata.json file to add custom attributes and traits.
+- Connected MetaMask wallet to the Goerli test network using an Alchemy RPC endpoint for faster transactions.
 - Mint an NFT and visualize it on OpenSea.
