@@ -6,6 +6,10 @@
 
  ### I've created and deployed ERC721 smart contract on Goerli Network and minted my own profile picture with Alchemy's Road to Web3
  
+ <p align="center" >
+<img src = "https://user-images.githubusercontent.com/59679281/206873495-e6e9a7b7-1118-48ae-9ab8-7622c6802dc5.png" height="300px"> 
+</p>
+
 ## Tools Used
 
 - Remix IDE
@@ -15,10 +19,6 @@
 - Opensea
 - OpenZeppelin Wizard
 - Alchemy
-
-<p align="center" >
-<img src = "https://user-images.githubusercontent.com/59679281/206873495-e6e9a7b7-1118-48ae-9ab8-7622c6802dc5.png" height="400px"> 
-</p>
 
 ## What I learnt:
 
